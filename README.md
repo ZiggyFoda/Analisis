@@ -1,2 +1,2 @@
 # Analisis
-Repositorio para Parciales, retos, talleres :)
+Repositorio para Parciales, retos, talleres,participaciones(Talleres) :)
