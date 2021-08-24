@@ -1,3 +1,5 @@
+//episilon de la maquina en C 
+
 #include <stdio.h>
 int main() {
 double x = 1.0;
